@@ -1,0 +1,5 @@
+movieName,releaseYear,720pLink,1080pLink
+ Look Who's Talking , 1989 , Comedy , https://yts.am/assets/images/movies/look_whos_talking_1989/medium-cover.jpg , #movie-info > div.bottom-info > div:nth-child(2) > span:nth-child(2) , #movie-info > div.bottom-info > div:nth-child(3) > span:nth-child(2) , null 
+  Mr. Smith Goes to Washington , 1939 , Comedy / Drama , https://yts.am/assets/images/movies/mr_smith_goes_to_washington_1939/medium-cover.jpg , #movie-info > div.bottom-info > div:nth-child(2) > span:nth-child(2) , #movie-info > div.bottom-info > div:nth-child(3) > span:nth-child(2) , null 
+  The Entertainer , 1960 , Drama , https://yts.am/assets/images/movies/the_entertainer_1960/medium-cover.jpg , #movie-info > div.bottom-info > div:nth-child(2) > span:nth-child(2) , #movie-info > div.bottom-info > div:nth-child(3) > span:nth-child(2) , 7.1 
+ 
